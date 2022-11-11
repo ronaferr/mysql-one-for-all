@@ -1,16 +1,11 @@
-# 🚧 README em construção 🚧
+# Projeto MYSQL one for all
 
-<!-- Olá, Tryber!
+# Contexto
+Este projeto trata-se de um banco de dados MYSQL onde foi preciso normalizar a tabela e aplicar aprendizados do modulo de MYSQL na TRYBE
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+## Técnologias usadas
 
-É essencial que você preencha esse documento por conta própria, ok?
+Back-end:
+> Desenvolvido usando: MYSQL, ES6
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+Projeto desenvolvido durante curso na Trybe
